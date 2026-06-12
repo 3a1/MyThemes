@@ -1,30 +1,22 @@
 # Visual Studio
 
-My personal Visual Studio extensions/settings
-
 ## Preview  
-![Preview Image](https://github.com/user-attachments/assets/456ed8f5-4fa7-4a94-934c-d73b0938bfea)  
-
----
+![alt text](image.png)
 
 ## Power Mode  
 [PowerMode](https://marketplace.visualstudio.com/items?itemName=BigEgg.PowerMode)  
 
-![Power Mode](https://github.com/user-attachments/assets/48ed23a3-26d3-4b33-8b3b-aa1879a1147f)  
+![alt text](image-1.png)
 
 I've rebuilt this extension with some custom tweaks. If you experience lagging, consider rebuilding it with fewer particles for better performance.  
-
----
 
 ## Doki Theme  
 [Doki Theme](https://marketplace.visualstudio.com/items?itemName=unthrottled.dokithemevisualstudio)  
 
-![Doki Theme](https://github.com/user-attachments/assets/1cf5a1dc-1b0a-4f3b-8643-a7ca5d621e18)  
-![Doki Theme](https://github.com/user-attachments/assets/4a30ffeb-e8d9-406d-a7fd-c07ccebeacc7)  
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 [Custom Image](https://imgur.com/r2Jywcy)  
-
----
 
 ## Other Extensions  
 
